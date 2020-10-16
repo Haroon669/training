@@ -1,1 +1,3 @@
 new file for training
+
+Git revert and reset
